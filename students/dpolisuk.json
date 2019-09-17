@@ -1,0 +1,15 @@
+{
+    "firstName": "David",
+    "lastName": "Polisuk",
+    "nickName": "",
+    "privateName": false,
+    "picture": "images/dpolisuk.jpg",
+    "privatePicture": false,
+    "email": "david.polisuk@mail.utoronto.ca",
+    "privateEmail": false,
+    "github": "dpolisuk",
+    "privateGithub": false,
+    "superpower" : "Canvassing for the Canadian election",
+    "academicinterests": "US & Canadian History, Political Science, Computer Science"
+  }
+  
